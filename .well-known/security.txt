@@ -1,0 +1,4 @@
+Contact: mailto:security@hollywoodcrowncasino.example
+Expires: 2027-07-24T06:12:52.374Z
+Preferred-Languages: en, de, fr
+Canonical: https://hollywoodcrowncasino.onrender.com/.well-known/security.txt
